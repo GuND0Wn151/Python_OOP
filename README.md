@@ -13,7 +13,7 @@ attributes
 behavior
 Let's take an example:
 
-A parrot is can be an object,as it has the following properties:
+A parrot is can be an object,as it has the following properties
 
 name, age, color as attributes
 singing, dancing as behavior
