@@ -15,6 +15,9 @@ Let's take an example:
 
 A parrot is can be an object,as it has the following properties
 
-name, age, color as attributes
-singing, dancing as behavior
-The concept of OOP in Python focuses on creating reusable code. This concept is also known as DRY (Don't Repeat Yourself
+name, age, color as attributes.
+singing, dancing as behavior.
+
+
+
+The concept of OOP in Python focuses on creating reusable code. This concept is also known as DRY (Don't Repeat Yourself).
