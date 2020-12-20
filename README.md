@@ -1,3 +1,4 @@
+
 # Python_OOP
 Object-oriented Programming, or OOP for short, is a programming paradigm which provides a means of structuring programs so that properties and behaviors are bundled into individual objects.
 
@@ -7,12 +8,16 @@ With this learning path you’ll get a solid grasp of the fundamentals of OOP in
 Python is a multi-paradigm programming language. It supports different programming approaches.
 An object-oriented paradigm is to design the program using classes and objects. The object is related to real-word entities such as book, house, pencil, etc. The oops concept focuses on writing the reusable code. It is a widespread technique to solve the problem by creating objects.
 One of the popular approaches to solve a programming problem is by creating objects. This is known as Object-Oriented Programming (OOP).
----------------------------------------
-~~OOP And python Possbile?~~
-----------------------------------------
-## It is Posibble
 
+~~OOP And python Possible?~~
+----------------------------------------------
+## It is Possible
 ----------------------------------------------------------
+
+
+
+
+
 ## Properties of Object Oriented Programing
 OOP has 7 main objectives they are
 
