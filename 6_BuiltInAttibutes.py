@@ -1,3 +1,6 @@
+#C0d3 n0=6
+#made By GuND0Wn151
+
 class Valorant:
       """
       Valorant class this class has attributes as health agent gun
