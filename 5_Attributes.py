@@ -1,3 +1,7 @@
+#C0d3 n0=5
+#made By GuND0Wn151
+
+
 class CSGO:
       """
       THis is CSGo class About Attributes
