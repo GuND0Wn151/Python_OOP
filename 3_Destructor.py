@@ -1,3 +1,5 @@
+#C0d3 n0=3
+#made By GuND0Wn151
 class Car:
       petrol=20
       def __init__(self):
