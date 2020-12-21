@@ -1,3 +1,7 @@
+#C0d3 n0=4
+#made By GuND0Wn151
+
+
 """
 self has the address of the object whihc we are making 
 when print self we get a output like
