@@ -1,3 +1,7 @@
+#C0d3 n0=1
+#made By GuND0Wn151
+
+
 class Car:
       #__init is constructor whihc instantiates an object
       name=""
