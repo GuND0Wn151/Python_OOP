@@ -1,4 +1,5 @@
-
+#C0d3 n0=2
+#made By GuND0Wn151
 
 """
 Class with a one parameter constructor
