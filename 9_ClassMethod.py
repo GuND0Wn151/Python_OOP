@@ -1,3 +1,6 @@
+#C0d3 n0=9
+#made By GuND0Wn151
+
 '''
 A class method is a method that
 is bound to a class rather than its object.
