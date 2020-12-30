@@ -1,4 +1,7 @@
-''''
+#C0d3 n0=10
+#made By GuND0Wn151
+
+'''
 The getattr() method retu
 the value of the named attribute of an object.
 If not found, it returns the default value provided to the function.
