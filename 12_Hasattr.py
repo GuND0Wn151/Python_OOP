@@ -1,5 +1,12 @@
 
+#C0d3 n0=12
+#made By GuND0Wn151
+"""
+hasattr checks whether a given attribute is there in a object or not
+the return value of this fucntion is boolean
+=
 
+"""
 class Employe:
       name=''
       designation=''
