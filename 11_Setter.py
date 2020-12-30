@@ -1,3 +1,6 @@
+#C0d3 n0=11
+#made By GuND0Wn151
+
 '''
 setattr take a object and a variable and value
 its assings the varible of the object with the given value
