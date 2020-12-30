@@ -1,3 +1,6 @@
+#C0d3 n0=9
+#made By GuND0Wn151
+
 '''
 static methods can be accesed from the class without making object of the class
 Therefore a static method can neither modify object state nor class state. 
