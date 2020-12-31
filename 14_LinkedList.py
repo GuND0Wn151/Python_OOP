@@ -1,3 +1,6 @@
+#C0d3 n0=14
+#made By GuND0Wn151
+
 class Node:
       def __init__(self,value):
             self.value=value
