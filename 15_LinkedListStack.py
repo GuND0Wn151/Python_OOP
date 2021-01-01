@@ -1,3 +1,6 @@
+#C0d3 n0=15
+#made By GuND0Wn151
+
 class Node:
       	
 
